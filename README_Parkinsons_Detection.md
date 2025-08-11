@@ -1,4 +1,4 @@
-# 🧠 Parkinson’s Disease Detection Web App
+# 🧠 Parkinson’s Disease Detection Using ML
 
 **Tech Stack:** Python (Flask), Convolutional Neural Networks (CNN), HTML/CSS/JS, Kaggle Datasets, MySQL  
 **Role:** Full-Stack Developer | Machine Learning Engineer  
@@ -50,24 +50,33 @@ User → Web UI (HTML/CSS/JS) → Flask API → Preprocessing → CNN Models →
 ## 🖼 Screenshots
 
 ### 🔑 Login Page
-![Login Page](docs/screenshots/login.png)
+<img width="520" height="293" alt="image" src="https://github.com/user-attachments/assets/3f69b6d3-9811-499f-9e8a-a6498694fc8f" />
+
 
 ### 📝 Registration Page
-![Registration](docs/screenshots/register.png)
+<img width="522" height="324" alt="image" src="https://github.com/user-attachments/assets/3da9af77-3ab7-4093-a07b-a49783d2b2a8" />
 
-### 🏠 Home Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+
+### 🏠 Home Page
+<img width="582" height="294" alt="image" src="https://github.com/user-attachments/assets/77a12809-1428-4d42-b539-219ad8fbfaaa" />
+
+
+### 📝 Dashboard Page
+<img width="558" height="297" alt="image" src="https://github.com/user-attachments/assets/189c9f3f-996e-4783-b119-af88a640eaba" />
+
 
 ### 🌀 Spiral Drawing Input
-![Spiral Drawing Input](docs/screenshots/spiral_input.png)
+<img width="634" height="326" alt="image" src="https://github.com/user-attachments/assets/00c2843e-0445-4b20-b7dd-c7e5c777c648" />
+
 
 ### 🎤 Voice Input
-![Voice Input](docs/screenshots/voice_input.png)
+<img width="634" height="322" alt="image" src="https://github.com/user-attachments/assets/2965ffb9-2c49-45d4-b6b2-abcef9fddc72" />
+
 
 ### 📊 Prediction Results
-![Prediction Page](docs/screenshots/prediction.png)
+<img width="634" height="306" alt="image" src="https://github.com/user-attachments/assets/65a6c44d-b4d1-4240-ba9a-a265b23f293f" />
 
-> **Note:** Screenshots should be extracted from the project UI or presentation and placed in `docs/screenshots/`.
+
 
 ---
 
@@ -109,8 +118,3 @@ Due to data privacy and academic project policies, full production deployment is
 This repository contains **documentation, screenshots, and selected code segments** for portfolio purposes.
 
 ---
-
-## 📬 Contact
-If you'd like to discuss my work or explore collaboration opportunities:  
-**Email:** your.email@example.com  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
